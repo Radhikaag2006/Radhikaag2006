@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, App Development 
 - 🌱 I’m currently learning C++, HTML, CSS, JAVASCRIPT
 - 📫 How to reach me - email at radhikaagrawal1905@gmail.com
-- 😄 Pronouns: Tech Enthusiast, Quick Learner
+- 😄 Pronouns: 
 
 
 <!---
